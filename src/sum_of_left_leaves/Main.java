@@ -20,6 +20,6 @@ class TreeNode {
 
 class Solution {
     public int sumOfLeftLeaves(TreeNode root) {
-
+        return 0;
     }
 }
